@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coffee_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# coffee_app
+>>>>>>> 156a6b8c3b9851f0de04b24d4d59bbb12d3ad2ba
