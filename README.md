@@ -3,18 +3,18 @@
 
 A new Flutter project.
 
+# This project is a practice test build of a coffee app.
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Repo doesn't have a already built .apk file yet. If you want to test the app, you can clone the repo and build it using gradle.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1) Latest Flutter SDK version
+# For Android Studio
+Install Flutter plugin for Android Studio. It will automatically install all other dependencies.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# coffee_app
->>>>>>> 156a6b8c3b9851f0de04b24d4d59bbb12d3ad2ba
+# For VS Code
+Install Flutter and Dart extension.
+
