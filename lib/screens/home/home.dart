@@ -4,6 +4,7 @@ import 'package:coffee_app/services/database.dart';
 import 'package:provider/provider.dart';
 import 'package:coffee_app/screens/home/brew_list.dart';
 import 'package:coffee_app/models/brew.dart';
+import 'package:coffee_app/screens/home/settings_forms.dart';
 
 class Home extends StatelessWidget {
 
@@ -16,7 +17,7 @@ final AuthService _auth=AuthService();
       showModalBottomSheet(context: context, builder: (context){
         return Container(
           padding: EdgeInsets.symmetric(vertical: 20, horizontal: 60),
-          child: Text('bottom sheet'),
+          child: SettingsFor(),
 
         );
       });
@@ -48,7 +49,15 @@ final AuthService _auth=AuthService();
                  ),
           ],
         ),
-        body: BrewList(),
+        body: Container(
+          decoration: BoxDecoration(
+            image:DecorationImage(
+              image: AssetImage('assets/coffee_bg.png'),
+              fit: BoxFit.cover,
+            ),
+          ),
+          child: BrewList()
+          ),
       ),
     );
   }
