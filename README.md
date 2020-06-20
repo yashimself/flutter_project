@@ -3,7 +3,7 @@
 
 A new Flutter project.
 
-# This project is a practice test build of a coffee app.
+# This project is a test build of a coffee app.
 
 # Getting Started
 
