@@ -1,3 +1,4 @@
+![build](https://github.com/yashimself/flutter_project/workflows/build/badge.svg)
 # coffee_app
 
 A new Flutter project.
