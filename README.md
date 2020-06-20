@@ -5,11 +5,9 @@ A new Flutter project.
 
 # This project is a practice test build of a coffee app.
 
-## Getting Started
+# Getting Started
 
-Repo doesn't have a already built .apk file yet. If you want to test the app, you can clone the repo and build it using gradle.
-
-## Requirements
+# Requirements
 
 1) Latest Flutter SDK version. It should automatically install Dart SDK as well. If it doesn't, you can do it manually. Just Google it.
 # For Android Studio
